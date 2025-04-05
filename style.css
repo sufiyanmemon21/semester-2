@@ -983,7 +983,17 @@ tr td {
     line-height: 100px;
     color: black;
   }
-
+.youtube{
+    height: 350px;
+    width: 320px;
+    border: 2px solid black;
+    margin-top: 20px;
+    margin-bottom: 25px;
+    margin-left: 25px;
+    display: inline-block;
+    margin: 60px;
+    
+}
 
 
 
