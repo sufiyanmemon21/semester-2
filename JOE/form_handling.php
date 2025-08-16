@@ -9,7 +9,7 @@
     <title>Hello, world!</title>
   </head>
   <body>
-    <h1>User's data</h1>
+    <h1 class="text-center">User's data</h1>
 
     <div class="container">
         <div class="row">
